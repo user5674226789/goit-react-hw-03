@@ -1,7 +1,5 @@
-
-
- import css from './ContactList.module.css';
-  import ContactItem from '../Contact/Contact';
+import css from './ContactList.module.css';
+  import ContactItem from './components/Contact/Contact';
 
 
 
